@@ -27,7 +27,7 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "saba",
+  name: "saba 💜",
   photo: "./img/saba sultana.jpeg",  
    music: "./music/Tangled.mp3",    // Place your music in the music/ folder
 
@@ -55,14 +55,14 @@ const CONFIG = {
   sections: [
   {
     type: "greeting",
-    title: "Hey, Rapunzel! 💜",
+    title: "Hey, My Rapunzel!",
     subtitle: "Tonight, the lanterns are shining just for you ✨"
   },
 
   {
     type: "countdown",
     from: 3,
-    goText: "🏮✨"
+    goText: "🌸🌷🌼🌺"
   },
 
   {
@@ -107,7 +107,7 @@ const CONFIG = {
 
   {
     type: "profile",
-    wishTitle: "Happy Birthday, Beautiful! 👑",
+    wishTitle: "Happy  Birthday, Beautiful💜! ",
     wishText:
       "May your life always be filled with love, laughter, adventures, beautiful dreams and a little bit of magic. 💜✨"
   },
@@ -125,8 +125,8 @@ const CONFIG = {
   {
     type: "closing",
     text:
-      "And they lived happily ever after... 💜🏮✨",
-    replayText: "Experience the magic again ✨"
+      "greatful to have you as my sister, love you 💗...And she lived happily ever after",
+    replayText: "Experience the magic again 💜"
   }
 ]
 }
