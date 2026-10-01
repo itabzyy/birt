@@ -62,7 +62,7 @@ const CONFIG = {
   {
     type: "countdown",
     from: 3,
-    goText: "🌸🌷🌼🌺"
+    goText: "🌷"
   },
 
   {
@@ -107,7 +107,7 @@ const CONFIG = {
 
   {
     type: "profile",
-    wishTitle: "Happy  Birthday, Beautiful💜! ",
+    wishTitle: "Happy..Birthday, Beautiful ",
     wishText:
       "May your life always be filled with love, laughter, adventures, beautiful dreams and a little bit of magic. 💜✨"
   },
@@ -125,7 +125,7 @@ const CONFIG = {
   {
     type: "closing",
     text:
-      "greatful to have you as my sister, love you 💗...And she lived happily ever after",
+      "greatful to have you as my sister, love you 💗",
     replayText: "Experience the magic again 💜"
   }
 ]
