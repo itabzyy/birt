@@ -28,7 +28,7 @@
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
   name: "saba 💜",
-  photo: "./img/saba sultana.jpeg",  
+  photo: "./img/sabdu.jpeg",  
    music: "./music/Tangled.mp3",    // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
