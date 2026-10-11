@@ -125,7 +125,7 @@ const CONFIG = {
   {
     type: "closing",
     text:
-      "greatful to have you as my sister, love you 💗",
+      "im so greatful to have you as my best friend, someone who can scold me for my mistakes and correct me as a sister.. matches my humour and passout from laughing altogether. my new beginnings were easy and full of light because allah sent you in my life which feels so much easier... a shoulder to cry on when life feels heavy and a person who makes unfunny jokes ridiculously funny!! i see you as my twin flame in a traingular soul with our another chotu flame. thank you for being you and giving me so many reasons to believe in friendships...love you sabdu💗",
     replayText: "Experience the magic again 💜"
   }
 ]
